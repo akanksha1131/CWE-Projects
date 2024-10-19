@@ -1,0 +1,39 @@
+---
+sourceLocationPrefix: C:\Users\AKANKSHA KALE\Desktop\CWE-Projects\sql_injection\securebanking-app
+baselineLinesOfCode: 109
+unicodeNewlines: false
+columnKind: utf16
+primaryLanguage: java
+inProgress:
+  primaryLanguage: java
+  installedExtractors:
+    cpp:
+     - C:/Users/AKANKSHA KALE/Downloads/codeql-win64/codeql/cpp
+    csharp:
+     - C:/Users/AKANKSHA KALE/Downloads/codeql-win64/codeql/csharp
+    csv:
+     - C:/Users/AKANKSHA KALE/Downloads/codeql-win64/codeql/csv
+    go:
+     - C:/Users/AKANKSHA KALE/Downloads/codeql-win64/codeql/go
+    html:
+     - C:/Users/AKANKSHA KALE/Downloads/codeql-win64/codeql/html
+    java:
+     - C:/Users/AKANKSHA KALE/Downloads/codeql-win64/codeql/java
+    javascript:
+     - C:/Users/AKANKSHA KALE/Downloads/codeql-win64/codeql/javascript
+    properties:
+     - C:/Users/AKANKSHA KALE/Downloads/codeql-win64/codeql/properties
+    python:
+     - C:/Users/AKANKSHA KALE/Downloads/codeql-win64/codeql/python
+    ruby:
+     - C:/Users/AKANKSHA KALE/Downloads/codeql-win64/codeql/ruby
+    swift:
+     - C:/Users/AKANKSHA KALE/Downloads/codeql-win64/codeql/swift
+    xml:
+     - C:/Users/AKANKSHA KALE/Downloads/codeql-win64/codeql/xml
+    yaml:
+     - C:/Users/AKANKSHA KALE/Downloads/codeql-win64/codeql/yaml
+creationMetadata:
+  cliVersion: 2.19.1
+  creationTime: 2024-10-19T08:02:25.119610Z
+finalised: false

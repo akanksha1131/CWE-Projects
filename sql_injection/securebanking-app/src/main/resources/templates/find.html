@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html xmlns:th="http://www.thymeleaf.org">
+<head>
+    <title>Find User</title>
+</head>
+<body>
+    <h2>Find User by Name</h2>
+    <form action="/user/find" method="post">
+        <input type="text" name="name" placeholder="Enter name">
+        <button type="submit">Find User</button>
+    </form>
+    <h2>Search User by Email</h2>
+    <form action="/user/search" method="post">
+        <input type="text" name="searchTerm" placeholder="Enter email search term">
+        <button type="submit">Search Email</button>
+    </form>
+</body>
+</html>
